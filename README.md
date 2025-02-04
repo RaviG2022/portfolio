@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I'm a Full Stack Developer specializing in building robust web applications and APIs. With expertise in both PHP/Laravel and Node.js ecosystems, I create scalable solutions for complex business problems.
+I am Ravi Patel and I'm a Full Stack Developer specializing in building robust web applications and APIs. With expertise in both PHP/Laravel and Node.js ecosystems, I create scalable solutions for complex business problems.
 
 ## 💼 Technical Skills
 
@@ -92,7 +92,7 @@ A platform connecting influencers with music producers.
   - Administrative controls
 
 ## 📫 How to reach me
-- Email: [my@email.com](mailto:my@email.com)
+- Email: [dobariyaravi1999@gmail.com](mailto:dobariyaravi1999@gmail)
 
 ---
 💡 Always open to collaborating on interesting projects!
