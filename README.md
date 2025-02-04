@@ -20,6 +20,7 @@ I'm a Full Stack Developer specializing in building robust web applications and 
 
 ## 🚀 Featured Projects
 
+
 ### CareOps AI (Current)
 An AI-powered healthcare platform for automating clinical data processing.
 - **Tech Stack:** Node.js, TypeScript
@@ -28,6 +29,7 @@ An AI-powered healthcare platform for automating clinical data processing.
   - Browser extension for clinical data auto-filling
   - Multi-tenant architecture with company/branch management
   - Clinician-focused web application
+
 
 ### Kaleidoscope
 A therapeutic consultation platform connecting students with therapists.
@@ -39,6 +41,7 @@ A therapeutic consultation platform connecting students with therapists.
   - Virtual meeting integration
   - Administrative dashboard
 
+
 ### Scoop
 A subscription-based podcast hosting and streaming platform.
 - **Tech Stack:** Laravel, RESTful APIs
@@ -47,6 +50,7 @@ A subscription-based podcast hosting and streaming platform.
   - Episode management and streaming
   - Subscription model implementation
   - Mobile app integration
+
 
 ### Virtual Bones
 A medical platform for recording and visualizing injury data.
@@ -57,6 +61,7 @@ A medical platform for recording and visualizing injury data.
   - Mobile app integration
   - Administrative controls
 
+
 ### Informist Media
 A subscription-based news and article platform.
 - **Tech Stack:** Laravel, RESTful APIs
@@ -66,6 +71,7 @@ A subscription-based news and article platform.
   - User feedback system
   - Mobile app integration
 
+
 ### Foxy Studio
 A task management system with newsletter functionality.
 - **Tech Stack:** Node.js, RESTful APIs
@@ -73,6 +79,7 @@ A task management system with newsletter functionality.
   - Multi-role task management
   - Newsletter display
   - Role-based access control
+
 
 ### Flower Power
 An event planning and booking platform.
@@ -83,6 +90,7 @@ An event planning and booking platform.
   - Booking system
   - Advertisement management
 
+
 ### Song Spark
 A platform connecting influencers with music producers.
 - **Tech Stack:** Laravel, RESTful APIs
@@ -91,6 +99,7 @@ A platform connecting influencers with music producers.
   - Song owner profiles
   - Music catalog
   - Administrative controls
+
 
 ## 📫 How to reach me
 - Email: [dobariyaravi1999@gmail.com](mailto:dobariyaravi1999@gmail)
