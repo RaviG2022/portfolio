@@ -1,6 +1,7 @@
-# Hi there! 👋
+# Hi there! I am Ravi Patel👋
 
-I am Ravi Patel and I'm a Full Stack Developer specializing in building robust web applications and APIs. With expertise in both PHP/Laravel and Node.js ecosystems, I create scalable solutions for complex business problems.
+
+I'm a Full Stack Developer specializing in building robust web applications and APIs. With expertise in both PHP/Laravel and Node.js ecosystems, I create scalable solutions for complex business problems.
 
 ## 💼 Technical Skills
 
