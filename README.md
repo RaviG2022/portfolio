@@ -1,4 +1,3 @@
-
 # 👋 Hi there! I'm **Ravi Patel**
 
 🚀 **Full Stack Developer** | **API Specialist** | **Scalable Web Solutions Architect**
@@ -11,7 +10,7 @@ Passionate about building **robust web applications** and **scalable APIs**. Wit
 
 ### 🛠 Backend Development
 - 🐘 PHP | Laravel
-- ⚡ Node.js | TypeScript
+- ⚡ Node.js | TypeScriptA
 - 🗄 TypeORM | MySQL
 - 🔗 RESTful APIs | Database Design
 
